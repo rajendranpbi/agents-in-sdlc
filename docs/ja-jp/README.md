@@ -22,7 +22,7 @@ lastUpdated: 2026-09-28
 
 ### [Visual Studio Code のはじめの一歩][first-steps-vscode]
 
-VS Code で Space Quiz を作成し、統合ブラウザーでのテスト、ソース管理での公開、GitHub ツールを使った Issue とプル リクエストの操作、クラウド セッションへの委任まで進めます。
+VS Code で Space Quiz を作成し、統合ブラウザーでテストし、ソース管理から公開します。GitHub ツールを使って Issue とプル リクエストを操作し、クラウド セッションに引き継ぎます。
 
 ## 実践的な開発
 

@@ -9,7 +9,7 @@ lastUpdated: 2026-10-12
 
 Faça um tour prático pelo aplicativo GitHub Copilot, pensado para quem está começando. Você criará um Space Quiz colorido a partir de uma pasta vazia e percorrerá todo o ciclo de desenvolvimento, do primeiro prompt a um pull request revisado e a um site publicado no GitHub Pages.
 
-O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arquivo HTML, sem dependências de tempo de execução, para que você possa se concentrar em conhecer o aplicativo e seus fluxos de trabalho com agentes.
+O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arquivo da linguagem de marcação de hipertexto (HTML), sem dependências de tempo de execução, para que você possa se concentrar em conhecer o aplicativo e seus fluxos de trabalho com agentes.
 
 > [!NOTE]
 > Este workshop foi criado por [James Montemagno][james] e adaptado de [First Steps with GitHub Copilot][source-lab]. O conteúdo original está disponível sob a [licença MIT][source-license].
@@ -30,7 +30,7 @@ O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arqu
 | [9. Automatizar a triagem de issues][lesson-9] | Automação | Agendar e executar uma automação semanal de triagem de issues |
 | [10. Continuar uma sessão remotamente][lesson-10] | Acesso remoto (opcional) | Acompanhar uma sessão local em andamento pela web ou pelo celular com `/remote` |
 | [11. Explorar um Canvas][lesson-11] | Canvas | Iniciar o trabalho a partir de um Canvas Repository Issues Kanban |
-| [12. Publicar o site com GitHub Pages][lesson-12] | Publicação | Revisar e mesclar um workflow de Pages e verificar o site publicado |
+| [12. Implantar o site com GitHub Pages][lesson-12] | Implantação | Revisar e integrar um fluxo de trabalho do Pages e verificar o site publicado |
 | [13. Revisão e próximos passos][lesson-13] | Revisão | Recapitular o fluxo de trabalho e continuar aprendendo |
 
 ## Começar
